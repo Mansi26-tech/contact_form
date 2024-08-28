@@ -4,4 +4,4 @@
 
 This is a screenshot of the website:
 
-![Website Screenshot](./src/Screenshot (209).png)
+![Website Screenshot](./Screenshot (209).png)
